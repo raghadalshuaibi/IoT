@@ -1,0 +1,29 @@
+<?php
+
+$connect= mysqli_connect('localhost','raghad','mydata123' , 'controlpanel');
+if (!$connect){
+    echo 'connection error !!' . mysqli_connect_error();
+}
+?>
+
+<!DOCTYPE html>
+<html>
+ <head>
+   <title> ROBOT Control Panel </title>
+     <link rel="stylesheet" href="CSS-button.css" />
+ </head>
+  <body>
+    <br><br><br><br>
+    <img src="robot.png" alt="Robot">
+    <br><br><br><br>
+    
+       <a href="forwards.php" > <button class ="btn" > Forwards </button> </a> <br> 
+       <a href="left.php" > <button class ="btn" > Left </button> </a> 
+       <a href="stop.php" > <button class ="btn" > STOP </button> </a> 
+       <a href="right.php" > <button class ="btn" > Right </button> </a> <br> 
+       <a href="backwards.php" > <button class ="btn" > Backwards </button> </a> <br>
+     
+        
+  </body>
+</html>
+

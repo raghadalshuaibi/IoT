@@ -1,0 +1,1098 @@
+{
+  "intents": [
+    {
+      "intent": "Change_Subject",
+      "examples": [
+        {
+          "text": "Let us talk about something else"
+        },
+        {
+          "text": "Help me with this other question"
+        },
+        {
+          "text": "Let us change the topic"
+        },
+        {
+          "text": "I have one more question"
+        },
+        {
+          "text": "A different matter"
+        },
+        {
+          "text": "Another thing"
+        },
+        {
+          "text": "Can we talk about something else?"
+        },
+        {
+          "text": "Discuss something else"
+        },
+        {
+          "text": "Here is another issue"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Positive_Feedback",
+      "examples": [
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "your great"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Standby",
+      "examples": [
+        {
+          "text": "Give me a few minutes to get together"
+        },
+        {
+          "text": "Just hold on"
+        },
+        {
+          "text": "Wait"
+        },
+        {
+          "text": "Need a minute here"
+        },
+        {
+          "text": "Let me see"
+        },
+        {
+          "text": "Keep holding"
+        },
+        {
+          "text": "Give me a second"
+        },
+        {
+          "text": "Hold on"
+        },
+        {
+          "text": "In a moment"
+        },
+        {
+          "text": "Just a sec"
+        },
+        {
+          "text": "Be patient with me"
+        },
+        {
+          "text": "Can you give me a moment?"
+        },
+        {
+          "text": "Can you wait for me?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Confirm_Presence",
+      "examples": [
+        {
+          "text": "Is anybody here?"
+        },
+        {
+          "text": "Anyone there?"
+        },
+        {
+          "text": "Are you leaving me?"
+        },
+        {
+          "text": "Are you on?"
+        },
+        {
+          "text": "Are you still here with me?"
+        },
+        {
+          "text": "Are you there?"
+        },
+        {
+          "text": "Did you go somewhere?"
+        },
+        {
+          "text": "Did you hear what I said?"
+        },
+        {
+          "text": "Have I lost you?"
+        },
+        {
+          "text": "I am still holding"
+        },
+        {
+          "text": "Am I talking to someone?"
+        },
+        {
+          "text": "Where'd you go?"
+        },
+        {
+          "text": "You around?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Travelling",
+      "examples": [
+        {
+          "text": "where do I go for a vacation?"
+        },
+        {
+          "text": "I am planning for my vacation"
+        },
+        {
+          "text": "I want to go somewhere else"
+        },
+        {
+          "text": "I want to leave"
+        },
+        {
+          "text": "I need a vaction"
+        },
+        {
+          "text": "where should I go for summer?"
+        },
+        {
+          "text": "can you suggest places to travel to?"
+        },
+        {
+          "text": "I miss travelling"
+        },
+        {
+          "text": "I need to travel"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ROBOT",
+      "examples": [
+        {
+          "text": "i want to see you move"
+        },
+        {
+          "text": "how can i move you?"
+        },
+        {
+          "text": "can you move?"
+        },
+        {
+          "text": "can you walk?"
+        },
+        {
+          "text": "what are these buttons?"
+        },
+        {
+          "text": "should i click on those buttons to move you?"
+        },
+        {
+          "text": "how can you move?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Books",
+      "examples": [
+        {
+          "text": "anything to read?"
+        },
+        {
+          "text": "I want to do something useful"
+        },
+        {
+          "text": "I want something educational"
+        },
+        {
+          "text": "I want to learn something"
+        },
+        {
+          "text": "any book suggestions?"
+        },
+        {
+          "text": "I want to read something fun"
+        },
+        {
+          "text": "I want to read something"
+        },
+        {
+          "text": "any good book to read?"
+        },
+        {
+          "text": "any suggestions for a book?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Ending",
+      "examples": [
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Greeting",
+      "examples": [
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "what's up"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Approve_Response",
+      "examples": [
+        {
+          "text": "This is alright"
+        },
+        {
+          "text": "That's exactly what I want"
+        },
+        {
+          "text": "That is what I need"
+        },
+        {
+          "text": "That is right"
+        },
+        {
+          "text": "That is precisely what I was looking for"
+        },
+        {
+          "text": "Sweet"
+        },
+        {
+          "text": "I like that"
+        },
+        {
+          "text": "I agree"
+        },
+        {
+          "text": "Great"
+        },
+        {
+          "text": "Got it"
+        },
+        {
+          "text": "Correct"
+        },
+        {
+          "text": "For sure!"
+        },
+        {
+          "text": "All right"
+        },
+        {
+          "text": "Yes"
+        },
+        {
+          "text": "Yeah, that's it!"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Clarification",
+      "examples": [
+        {
+          "text": "I didn't quite understand what you said"
+        },
+        {
+          "text": "Can you say that again please?"
+        },
+        {
+          "text": "I'm confused"
+        },
+        {
+          "text": "What do you mean?"
+        },
+        {
+          "text": "What are you talking about?"
+        },
+        {
+          "text": "What are you saying?"
+        },
+        {
+          "text": "I need more information"
+        },
+        {
+          "text": "I don't understand what you're saying"
+        },
+        {
+          "text": "I don't understand"
+        },
+        {
+          "text": "I don't get it"
+        },
+        {
+          "text": "I didn't understand that properly"
+        },
+        {
+          "text": "Come again?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Human_or_Bot",
+      "examples": [
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you real?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Boredom",
+      "examples": [
+        {
+          "text": "i am bored"
+        },
+        {
+          "text": "I'm board"
+        },
+        {
+          "text": "I want something fun to do"
+        },
+        {
+          "text": "what can i do for fun?"
+        },
+        {
+          "text": "suggest something fun"
+        },
+        {
+          "text": "is there anything fun to do ?"
+        },
+        {
+          "text": "give me something to fill my time with"
+        },
+        {
+          "text": "what can I do in my free time?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Negative_Feedback",
+      "examples": [
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Movies_or_Shows",
+      "examples": [
+        {
+          "text": "can you suggest a movie for me?"
+        },
+        {
+          "text": "is there any good movie to watch"
+        },
+        {
+          "text": "can you suggest a show to watch?"
+        },
+        {
+          "text": "I want to watch something new"
+        },
+        {
+          "text": "any suggestions for a movie?"
+        },
+        {
+          "text": "any suggestions for a good series?"
+        },
+        {
+          "text": "anything new out there to watch ?"
+        },
+        {
+          "text": "I want a good movie"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Reject_Response",
+      "examples": [
+        {
+          "text": "It is not what I was looking for"
+        },
+        {
+          "text": "It is not what I want"
+        },
+        {
+          "text": "I don't want that"
+        },
+        {
+          "text": "I don't need that"
+        },
+        {
+          "text": "I disagree"
+        },
+        {
+          "text": "I do not think it is the answer?"
+        },
+        {
+          "text": "thats not what i mean"
+        },
+        {
+          "text": "You didn't understand me"
+        },
+        {
+          "text": "Wrong response"
+        },
+        {
+          "text": "That was not my intent"
+        },
+        {
+          "text": "Not the right response"
+        },
+        {
+          "text": "No I'm fine thanks"
+        },
+        {
+          "text": "No"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "oh! I probably didn't understand your question correctly. can you explain it more?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Reject_Response",
+      "dialog_node": "node_6_1596041450978",
+      "previous_sibling": "node_8_1596041169295"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "see you later alligator!"
+              },
+              {
+                "text": "bye for now! remember, I'm here whenever you need me!"
+              },
+              {
+                "text": "alright , bye"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#Ending",
+      "dialog_node": "node_10_1596042248740",
+      "previous_sibling": "node_3_1596042998077"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I probably didn't understand what you are asking for, can you explain more?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Clarification",
+      "dialog_node": "node_2_1596042530290",
+      "previous_sibling": "node_1_1596042477834"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can move but with a little help  from you"
+              },
+              {
+                "text": "you can click on any of those 5 buttons in front of you and tell me where to go"
+              },
+              {
+                "text": "but be careful, don't make me bump into things ha:)!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#ROBOT",
+      "dialog_node": "node_8_1596120072935",
+      "previous_sibling": "node_2_1596041712113"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "glad I helped! feel free to ask anything else"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Approve_Response",
+      "dialog_node": "node_2_1596041712113",
+      "previous_sibling": "node_6_1596041450978"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "well, \"The Greatest Showman\" is a really great inspiring movie"
+              },
+              {
+                "text": "or if you want to watch a new series, I suggest you watch \"Modern Family\" "
+              },
+              {
+                "text": "orrrr, you can find something to watch of your choice from IMDB "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Movies_or_Shows",
+      "dialog_node": "node_7_1596118729667",
+      "previous_sibling": "node_9_1596118725939"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I appreciate this :)"
+              },
+              {
+                "text": "thank you :)"
+              },
+              {
+                "text": "that's sweet of you :)"
+              },
+              {
+                "text": "glad I can help :)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Positive_Feedback",
+      "dialog_node": "node_3_1596042998077",
+      "previous_sibling": "node_7_1596043135764"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm here, how can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Confirm_Presence",
+      "dialog_node": "node_7_1596043228324",
+      "previous_sibling": "node_3_1596043295572"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am your assistant."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Human_or_Bot",
+      "dialog_node": "node_1_1596043177981",
+      "previous_sibling": "node_7_1596043228324"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "but I'm your assistant :("
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Negative_Feedback",
+      "dialog_node": "node_7_1596043135764",
+      "previous_sibling": "node_1_1596043177981"
+    },
+    {
+      "type": "standard",
+      "title": "greeting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi"
+              },
+              {
+                "text": "hello "
+              },
+              {
+                "text": "what's upp"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#Greeting",
+      "dialog_node": "node_8_1596041169295",
+      "previous_sibling": "node_2_1596042530290"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can suggest a few thongs to do"
+              },
+              {
+                "text": "you can read a book"
+              },
+              {
+                "text": "or watch a movie"
+              },
+              {
+                "text": "or go for a walk"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Boredom",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1596116664812",
+      "previous_sibling": "node_7_1596118729667"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "go ahead"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Change_Subject",
+      "dialog_node": "node_1_1596042477834",
+      "previous_sibling": "node_10_1596042248740"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "well, if you like a bit of mystery, you can read \"The Woman in the Window\""
+              },
+              {
+                "text": "or you can search for a book of your choice from apple books app "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Books",
+      "dialog_node": "node_9_1596118725939",
+      "previous_sibling": "node_8_1596120072935"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_5_1596116664812",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "sure! just don't take too long"
+              },
+              {
+                "text": "I'll be waiting "
+              },
+              {
+                "text": "take your time "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#Standby",
+      "dialog_node": "node_3_1596043295572",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, I'll be your assistant for the day. feel free to ask anything you want."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "basic skill",
+  "language": "en",
+  "description": ""
+}
